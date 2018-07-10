@@ -10,3 +10,6 @@
 [0707/190340.962:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Footper\reports: Access is denied. (0x5)
 [0707/190340.966:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [0707/190340.967:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Footper\reports: Access is denied. (0x5)
+[0710/094959.078:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Footper\reports: Access is denied. (0x5)
+[0710/094959.119:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0710/094959.119:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Footper\reports: Access is denied. (0x5)
