@@ -669,7 +669,7 @@ blockquote .author {width: 100%;display: block;font-weight: 100;margin: 10px 0 0
 .contact-content {margin-bottom: 30px;}
 /*** 25. Footer
 ------------------------------------------------------------------------------*/
-footer {background-color: #242121;color: #fff;width: 100%;position: fixed;bottom: 0;z-index: 0;padding-top: 100px;}
+footer {background-color: #008081;color: #fff;width: 100%;position: fixed;bottom: 0;z-index: 0;padding-top: 100px;}
 footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
 .footer-box{padding: 0 0 70px;}
 /*address*/
@@ -688,7 +688,7 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
 .gallery-list li {float: left;margin: 0 0 4px 5px;width: 30%;}
 .gallery-list li img{border-radius: 5px;}
 /*sub footer*/
-.sub-footer {border-top: 1px solid rgba(255,255,255,0.1);background-color: #242121;padding: 20px 0;}
+.sub-footer {border-top: 1px solid rgba(255,255,255,0.1);background-color: #008081;padding: 20px 0;}
 .sub-footer p {margin: 0;color: #fff;}
 .footer-menu ul{text-align: right;position: relative;}
 .footer-menu ul li {position: relative;display: inline-block;}
