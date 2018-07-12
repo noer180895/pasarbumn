@@ -493,7 +493,7 @@ figure.effect-milo:hover .effect-block, .package-wiget:hover .effect-block{opaci
 /*category list*/
 .sidber-box {overflow: hidden;background-color: #fff;margin-bottom: 20px;position: relative;}
 .sidber-box:before, .tools-ber:before{content: '';width: 0;height: 0;border-top: 8px solid #fec107;border-right: 8px solid transparent;position: absolute;left: 0;top: 0;}
-.cats-title {padding: 15px 30px;font-weight: 700;font-size: 16px;position: relative}
+.cats-title {padding: 15px 30px;border-bottom: 1px solid #ddd;font-weight: 700;font-size: 16px;position: relative}
 .cats-title span {font-size: 10px;padding: 2px 6px;border-radius: 25px;color: #fff;margin-left: 10px;}
 .cats-widget ul {padding: 0px;line-height: 18px;font-size: 14px;font-weight: 500;padding: 30px;}
 .cats-widget ul li {list-style: outside none none;border-bottom: 1px solid #eee;margin-bottom: 10px;padding-bottom: 10px;font-family: 'Ubuntu', sans-serif;}
@@ -911,52 +911,3 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
   .progressbar li.active + li:after {
       background-color: #55b776;
   }
-
-  /*added by ayu*/
-.destinationSorting{
-    background-color: aqua !important;
-}
-.loginorregislist{
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin: 10px 15px 10px 15px;
-}
-.buttonactivebook {
-    background-color: #4eb1e7; /* Green */
-    border: none;
-    color: white;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    margin: 2px 53px 22px 14px;
-    cursor: pointer;
-}
-.buttonbooking{
-    background-color: #77c29e; /* Green */
-    border: none;
-    color: white;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 10px;
-    margin: 2px 53px 22px 14px;
-    cursor: pointer;
-}
-.button3 {border-radius: 13px!important;}
-
-.tulwarfooter{
-    color: white!important;
-}
-.inputfile {
-    width: 0.1px;
-    height: 0.1px;
-    opacity: 0;
-    overflow: hidden;
-    position: absolute;
-    z-index: -1;
-}
-
-  /*end code by ayu*/
