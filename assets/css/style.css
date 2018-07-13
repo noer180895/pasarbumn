@@ -970,6 +970,7 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
     padding-top: 20px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
   /*end code by ayu*/}
 }
 
@@ -978,4 +979,8 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
     padding-top: 20px;
     padding-left: 5px;
   /*end code by ayu*/}
+}
+
+#fullnameprofile{
+    display: none;
 }

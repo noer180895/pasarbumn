@@ -220,6 +220,30 @@ $(document).ready(function () {
     // Animate loader off screen
     $(".se-pre-con").fadeOut("slow");
 
+
+    // jquery show hidden profile
+    $("#profile-fullname").click(function(){
+            $("#fullnameprofile").hide();
+        });
+    $("#show-profile-fullname").click(function(){
+            $("#fullnameprofile").show();
+    });
+
+
+     $("#profile-phone").click(function(){
+            $("#phonenumberprofile").hide();
+        });
+    $("#show-profile-phone").click(function(){
+            $("#phonenumberprofile").show();
+    });
+
+    $("#profile-email").click(function(){
+            $("#emailprofile").hide();
+        });
+    $("#show-profile-email").click(function(){
+            $("#emailprofile").show();
+    });
+
 });
 
 
