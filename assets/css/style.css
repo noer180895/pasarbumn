@@ -50,7 +50,7 @@ This file contains the common info of this theme.
 ::selection{background-color: #fec107;color: #ffffff;}
 body{font-family: 'Open Sans', sans-serif;font-size: 13px;}
 p {color: #7d7d7d;line-height: 23px;letter-spacing: 0.25px;}
-#page-content{position: relative;margin-bottom: 421px;z-index: 10;background-color: white;}
+#page-content{position: relative;margin-bottom: 10px;z-index: 10;background-color: white;}
 ol, ul {padding: 0;margin:0;list-style-type: none;}
 img{width: 100%;}
 a:hover{text-decoration: none;}
@@ -669,7 +669,8 @@ blockquote .author {width: 100%;display: block;font-weight: 100;margin: 10px 0 0
 .contact-content {margin-bottom: 30px;}
 /*** 25. Footer
 ------------------------------------------------------------------------------*/
-footer {background-color: #008081;color: #fff;width: 100%;position: fixed;bottom: 0;z-index: 0;padding-top: 100px;}
+/*footer {background-color: #008081;color: #fff;width: 100%;position: fixed;bottom: 0;z-index: 0;padding-top: 100px;}*/
+footer {background-color: #008081;color: #fff;width: 100%;padding-top: 100px;}
 footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
 .footer-box{padding: 0 0 70px;}
 /*address*/
