@@ -161,7 +161,7 @@ a:hover{text-decoration: none;}
 .nav-btn .thm-btn { padding: 6px 22px;text-transform: capitalize;}
 .navbar .navbar-nav>.open>a, .navbar .navbar-nav>.open>a:focus, .navbar .navbar-nav>.open>a:hover {background-color: transparent;}
 @media (min-width: 768px) {
-    .navbar {background-color: #fff;border-color: transparent;border-bottom: 1px dotted rgba(255,255,255,0.3);height: 70px;}
+    .navbar {background-color: #fff;border-color: transparent;border-bottom: 1px dotted rgba(255,255,255,0.3);height: 80px;}
     .navbar .navbar-header .navbar-brand {height: 70px;padding: 18px 40px 18px 15px;}
     .navbar .navbar-header .navbar-brand:hover, .navbar .navbar-header .navbar-brand:focus {color: white;}
     .navbar .nav > li > a, .navbar .nav > li > a:focus {color: #000;padding-top: 24px;padding-bottom: 24px;}
