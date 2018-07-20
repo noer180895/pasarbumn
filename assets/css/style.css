@@ -981,3 +981,9 @@ footer .footer-title {margin: 0 0 30px;font-size: 20px;font-weight: 700;}
     padding-left: 5px;
   /*end code by ayu*/}
 }
+
+
+.line {
+    border-left: 6px solid blue;
+    height: 220px;
+}
