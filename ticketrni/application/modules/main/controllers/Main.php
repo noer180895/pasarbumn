@@ -23,6 +23,16 @@ class Main extends MX_Controller {
 		$this->load->view('main');
 	}
 
+	public function compare()
+	{
+		$this->load->view('compare');
+	}
+
+	public function backup()
+	{
+		$this->load->view('backup');
+	}
+
 	public function cari()
 	{
 		$this->load->view('cari');
