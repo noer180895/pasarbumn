@@ -1,0 +1,10 @@
+$(document).ready(function(){    
+	$('.btn_cari').on('click',function(){
+        window.open(global['base_url']+'index.php/main/cari/','_top');
+    });
+    $(".box_register_dlg").draggable({"handle":"h3"});
+    $(".box_login_dlg").draggable({"handle":"h3"});
+    $(".button_close").on('click',function(){
+    	$(this).parent().hide();
+    });
+});
