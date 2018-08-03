@@ -303,7 +303,7 @@ figure.effect-milo:hover .effect-block, .package-wiget:hover .effect-block{opaci
 .effect-block span {color: #373737;display: block;font-size: 15px;letter-spacing: 0.5px;}
 .effect-block h4 {font-size: 30px;color: #373737;font-weight: 700;margin: 0 0 20px;}
 /*destination*/
-.destination{position: relative;background-image: url(../images/destination-bg.jpg);background-repeat: no-repeat;background-size: cover;padding-bottom: 50px;}
+.destination{position: relative;background:#fff;background-repeat: no-repeat;background-size: cover;padding-bottom: 50px;}
 .destination::before {width: 100%;content: " ";height: 100%;position: absolute;left: 0;top: 0;display: block !important;background-color: rgba(255, 255, 255, 0.8);}
 .destination .thm-margin {margin-right: -10px;margin-left: -10px;}
 .destination .thm-padding {padding-left: 10px;padding-right: 10px;padding-bottom: 20px;}
