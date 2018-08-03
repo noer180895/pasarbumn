@@ -1,0 +1,69 @@
+.box_visimisi {
+    padding: 0 50px;
+    max-width: 500px;
+    font-size: 90%;
+    color: #ccc;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+body {
+    color: #c5c5c5;
+    font-weight: 900;
+}
+
+.box_interest {
+    padding: 10px;
+    box-shadow: 0 0 2px 2px #dedede;
+    margin: 20px 20px 0;
+}
+
+.box_interest>h2 {
+    margin: 0;
+}
+
+.box_footer {
+    background-color: #2aa59f;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+/* box info 1*/
+.box_info1 {
+    padding: 10px;
+    box-shadow: 0 0 2px 2px #dedede;
+    margin: 20px 20px 0;
+}
+
+/* box info 2*/
+.box_info2 {
+    padding: 0;
+    margin: 20px 20px 0;
+}
+
+span.box_prfl_relative {
+    position: relative;
+}
+
+.box_info2 h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.box_info2>div{
+    padding: 10px;
+}
+
+.box_info2>div>div {
+    box-shadow: 0 0 3px 3px #d8d8d8;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.box_info2 .button_booking{
+    background-color: #F96D01;
+    color: #fff;
+    padding: 5px 25px;
+    border-radius: 4px;
+}
